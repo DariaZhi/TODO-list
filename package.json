@@ -1,0 +1,20 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "TODO list without React",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DariaZhi/TODO-list.git"
+  },
+  "author": "Daria Zhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DariaZhi/TODO-list/issues"
+  },
+  "homepage": "https://github.com/DariaZhi/TODO-list#readme"
+}
